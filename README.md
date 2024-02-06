@@ -1,2 +1,3 @@
 # demo
-my first Git Repository
+my first Git Repository.
+Author - Kapil Sharma
